@@ -1,2 +1,2 @@
-remote.txtを追加
+ローカルで変更
 GitHub上で変更
