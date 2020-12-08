@@ -1,1 +1,2 @@
 remote.txtを追加
+GitHub上で変更
